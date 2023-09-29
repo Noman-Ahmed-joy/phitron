@@ -2,5 +2,5 @@
 using namespace std;
 int main()
 {
-    cout<<"Arame khaba, arame ghumaba "<<endl;
+     cout<<"Arame khaba, arame ghumaba "<<endl;
 }
